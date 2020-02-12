@@ -1,0 +1,71 @@
+#main{
+	width: 100vw;
+	height: 100%;
+	background-color: #d6d8d9;
+	font-size: 10px;
+}
+#title h1{
+	font-size: 4em;
+	text-align: center;
+	color: grey;
+	padding: 0.8em;
+}
+#title p{
+	font-size: 1.5em;
+	text-align: center;
+	color: black;
+	margin-top: -3em;
+}
+#img-div{
+max-width: 100%;
+background-color: white;
+margin: 10px 15px;
+
+
+}
+#image{
+	max-width: 100%;
+	display: block;
+	margin:auto;
+    
+}
+#img-caption{
+	font-size: 1.5em;
+	text-align: center;
+	color: black;
+	padding-bottom: 1em;
+}
+#tribute-info {
+	padding-right: 30%;
+	padding-left: 30%;
+
+}
+#tribute-info h2{
+font-weight: bold;
+font-size: 2em;
+text-align: center;
+}
+#tribute-info li{
+	padding: 0.7em;
+	font-size: 1.8em;
+	list-style-position:outside
+;
+}
+.year{
+	font-weight: bold;
+}
+blockquote{
+	font-style: italic;
+	font-size: 1.8em;
+	margin-top: 2em;
+}
+footer {
+	text-align: center;
+	font-size: 2.2em;
+	font-weight: bold;
+	padding-bottom: 0.7em;
+	padding-top: 0.3em;
+}
+
+
+
